@@ -1,0 +1,15 @@
+---
+title: "Homework 20"
+output: html_notebook
+---
+
+This is a practice file to work on pushing to GitHub through RStudio desktop.  To practice this, we will set this file up by using the regular code:
+
+```{r}
+# use code to clear the environment window and import the appropriate libraries to access their functions
+rm(list = ls())
+library(here)
+library(dplyr)
+library(ggplot2)
+```
+
