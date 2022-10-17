@@ -13,3 +13,4 @@ library(dplyr)
 library(ggplot2)
 ```
 
+Upon initially committing the file, it appears that it worked and the changes are reflected in GitHub.  Now I will push the file with the text changes outlined in this paragraph to practice pushing again. 
